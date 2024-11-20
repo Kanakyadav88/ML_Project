@@ -48,10 +48,8 @@ The ensemble methods improved classification accuracy significantly, making the 
 ## How to Run  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/username/diabetes-classification-ml.git  
+   git clone https://github.com/Kanakyadav88/ML_Project.git 
    ```  
-2. Install required dependencies:  
-   ```bash  
-   pip install -r requirements.txt  
-   ```  
-3. Run the notebook or script to train and evaluate the models.  
+
+2
+. Run the notebook or script to train and evaluate the models.  
